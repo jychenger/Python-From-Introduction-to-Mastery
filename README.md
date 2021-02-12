@@ -4,7 +4,7 @@
 ## 赞助👍联系方式(Sponsorship contact information)  
 
 |        |    QQ    |    QQmailbox    |    firefoxmailbox   |   163mailbox   |
-|--------|----------|-----------------|---------------------|----------------|
+|:------:|:--------:|:---------------:|:-------------------:|:--------------:|
 | number |2671113655|2671113655@qq.com|jychenger@foxmail.com|x1112737@163.com|
 
 ### 不限红包大小，贵在有爱心❤️(•ɞ•) (Not limited to the size of red envelopes, you are loving)

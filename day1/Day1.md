@@ -12,7 +12,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 >>>
 ```
-### 接着下载Python二进制安装包，进入Python[官网](www.python.org)，单击<kbd>download</kbd>，选择Python(CPython)最新版(此时Python最新版位3.9.1)，[小编个人推荐使用Python3]
+### 接着下载Python二进制安装包，进入Python[官网](https://www.python.org)，单击<kbd>download</kbd>，选择Python(CPython)最新版(此时Python最新版位3.9.1)，[小编个人推荐使用Python3]
 ### 一般下载到的安装包为 <kbd>Python-3.*.*.tgz</kbd>
 ```sh
 apt-get install tar && echo '解压安装包' && tar -zxvf Python-3.9.1.tgz && cd Python-3.9.1 && chmod +x configure && ./configure && make && make install

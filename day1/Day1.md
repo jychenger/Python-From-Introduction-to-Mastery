@@ -30,3 +30,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 >>>
 ```
+# 配置环境变量
+```sh
+export PATH="$PATH:/usr/local/bin/python"
+```

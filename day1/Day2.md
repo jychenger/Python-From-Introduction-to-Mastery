@@ -4,4 +4,17 @@
 
 ### 接着双击安装包，进入下图页面。
 ![安装](https://www.runoob.com/wp-content/uploads/2018/07/20180226150011548.png)
-### 一定要勾选 <kdb>add Python to path</kbd>
+### 一定要勾选 <kbd>add Python to path</kbd> 再单击第一个方式下载安装，后面的勾选框默认的就可以
+### 同时按住<kbd>win</kbd>+<kbd>R</kbd> 键 ，键入<kbd>cmd</kbd>，进入如下图页面
+![检测](https://www.runoob.com/wp-content/uploads/2018/07/20170707155742110.png)
+
+### 输入<kbd>python</kbd>，如果出现下面所示即为安装成功
+```sh
+Python 3.4.0 (default, Apr 11 2014, 13:05:11) 
+
+[GCC 4.8.2] on linux
+
+Type "help", "copyright", "credits" or "license" for more information.
+
+>>>
+```

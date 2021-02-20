@@ -34,3 +34,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```sh
 export PATH="$PATH:/usr/local/bin/python"
 ```
+
+***
+[下一节------>>>](https://github.com/jychenger/Python-From-Introduction-to-Mastery/blob/main/day1/Day2.md)

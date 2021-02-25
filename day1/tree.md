@@ -5,3 +5,6 @@
     - [第三节 编辑器配置](https://github.com/jychenger/Python-From-Introduction-to-Mastery/blob/main/day1/Day3.md)
         - [1.Windows 安装代码编辑器](https://github.com/jychenger/Python-From-Introduction-to-Mastery/blob/main/day1/Day3.md)
         
+2. 第二章 第一个python程序<kbd>hello.py</kbd>
+    - [第一节 在终端直译hello](https://github.com/jychenger/Python-From-Introduction-to-Mastery/blob/main/day2/Day1.md)
+    - [第二节 在文件中运行hello](https://github.com/jychenger/Python-From-Introduction-to-Mastery/blob/main/day2/Day2.md)

@@ -14,7 +14,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 "hello,world"
 ```
 ### 运行过程解释 
-##### 当Python解释器(>>>)扫描到函数 <kbd>print()</kbd> 时，就开始打印""里面的字符串(不带思考的打印，字符串str，简单的理解为几个字符如"我的名字就是jychenger")
+##### 当Python解释器(>>>)扫描到函数 <kbd>print()</kbd> 时，就开始打印""里面的字符串(不带思考的打印，字符串str，简单的理解为几个字符如"我的名字就是jychenger"就是一个字符串，<kbd>print()</kbd>的默认打印路径为屏幕)
 ##### Python的内置函数如<kbd>print()</kbd>有很多(后面一定要带英文括号)Python3中print也变成了函数，但在Python2中它为关键字
 |    |    | Python内置函数  |    |    |
 |----|----|----|----|----|
@@ -44,8 +44,28 @@ Python 3.9.1 (default, Apr 11 2014, 13:05:11)
 Type "help", "copyright", "credits" or "license" for more information.
 
 >>>message = "hello，world"
->>>x
+>>>message
 hello，world
->>>print(x)
+>>>print(message)
 hello，world
+```
+## 运行过程解释
+##### Python终端解释器扫描到<kbd>message</kbd>，认定它不是关键字后，将变量<kbd>message</kbd>赋值为后面的字符串，临时存储起来，但关闭解释器后就没有变量message了，接着扫描到 <kbd>message</kbd>和<kbd>print(message)</kbd>把message打印到屏幕上面  
+
+## Python内置关键字(不带括号哦)
+|  |  |  |  |  | Python内置关键字 |  |  |  |  |  |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|and|as|assert|break|class|continue|def|del|elif|else|except|
+|finally|for|from|global|if|import|in|is|lambda|nonlocal|not|
+|None|or|pass|raise|return|try|True|Flase|yield|while|with|
+### 也可以在终端获得关键字哦
+```python
+Python 3.9.1 (default, Apr 11 2014, 13:05:11) 
+
+[GCC 4.8.2] on linux
+
+Type "help", "copyright", "credits" or "license" for more information.
+
+>>>import keyword
+>>>keyword.kwlist()
 ```

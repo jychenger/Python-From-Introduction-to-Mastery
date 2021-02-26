@@ -69,3 +69,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>import keyword
 >>>keyword.kwlist()
 ```
+[下一节------------>>>](https://github.com/jychenger/Python-From-Introduction-to-Mastery/blob/main/Day2/Day2.md)

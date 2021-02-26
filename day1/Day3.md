@@ -15,4 +15,7 @@
 ### 点击Great New project，开头输入框是路径，接下来点击三角符号，可以看到pycharm已经自动获取了Python 3.5。
 ![https://www.runoob.com/wp-content/uploads/2018/05/1525863039-5312-.png](https://www.runoob.com/wp-content/uploads/2018/05/1525863039-5312-.png)
 ### 接着点击Creat，按close关掉提示
-### [原文链接如下](https://blog.csdn.net/c_shell_python/article/details/79647627)
+### [原文链接如下](https://blog.csdn.net/c_shell_python/article/details/79647627)  
+
+[下一节------------>>>](https://github.com/jychenger/Python-From-Introduction-to-Mastery/blob/main/Day2/Day1.md)
+

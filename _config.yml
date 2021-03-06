@@ -4,4 +4,7 @@ show_downloads: true
 
 google_analytics: true
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+
+title: jychenger-Python-From-Introduction-to-Mastery
+

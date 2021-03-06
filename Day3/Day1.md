@@ -26,3 +26,30 @@ print(name)
 1000.0
 John
 ```
+### 试试同时赋值
+```python
+Python 3.9.1 (default, Apr 11 2014, 13:05:11) 
+
+[GCC 4.8.2] on linux
+
+Type "help", "copyright", "credits" or "license" for more information.
+
+>>>a = b = c = 1
+>>>print(a,b,c)
+1
+1
+1
+```
+
+***
+
+### 标准数据类型
+- Numbers（数字）
+    - int（有符号整型）
+    - long（长整型[也可以代表八进制和十六进制]）
+    - float（浮点型）
+    - complex（复数）
+- String（字符串）
+- List（列表）
+- Tuple（元组）
+- Dictionary（字典）

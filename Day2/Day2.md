@@ -20,4 +20,4 @@ python helloworld.py
 ## 刚才我们直接使用了函数<kbd>print</kbd>打印，那可不可以使用 __变量__ 呢？下一节我们将会重点讲解变量
   
 ### 如果有问题可以及时在 <kbd>Discussions</kbd> 反馈哦  
-[下一节------>>>](https://github.com/jychenger/Python-From-Introduction-to-Mastery/blob/main/Day3/Day3.md)
+[下一节------>>>](https://github.com/jychenger/Python-From-Introduction-to-Mastery/blob/main/Day3/Day1.md)

@@ -12,15 +12,15 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 >>>
 ```
-### 接着下载Python二进制安装包，进入Python[官网python.Org](https://www.python.org)，单击<kbd>download</kbd>，选择Python(CPython)最新版(此时Python最新版位3.9.2{3.9.2的最大改进是以支持中文变量名，后面会提到})，[小编个人推荐使用Python3，因为Python3与Python2之间存在差距，但大多数人更宁愿选择更有前途的Python3]
-### 一般下载到的安装包为 <kbd>Python-3.*.*.tgz</kbd>
+###### 接着下载Python二进制安装包，进入Python[官网python.Org](https://www.python.org)，单击<kbd>download</kbd>，选择Python(CPython)最新版(此时Python最新版位3.9.2{3.9.2的最大改进是以支持中文变量名，后面会提到})，[小编个人推荐使用Python3，因为Python3与Python2之间存在差距，但大多数人更宁愿选择更有前途的Python3]
+##### 一般下载到的安装包为 <kbd>Python-3.*.*.tgz</kbd>
 ```sh
  apt-get update && apt upgrade && apt clean && apt-get install tar && echo '解压安装包' && tar -zxvf Python-3.9.1.tgz && cd Python-3.9.1 && chmod +x configure && ./configure && make && make install
 ```
 ```sh
 echo '检测一哈是否成功' && python3
 ```
-### 如果返回如下即为成功 
+###### 如果返回如下即为成功 
 ```sh
 Python 3.9.1 (default, Apr 11 2014, 13:05:11) 
 

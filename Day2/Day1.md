@@ -71,5 +71,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 >>>import keyword
 >>>keyword.kwlist()
+['False', 'None', 'True', 'and', 'as', 'assert', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
 ```
 [下一节------------>>>](https://github.com/jychenger/Python-From-Introduction-to-Mastery/blob/main/Day2/Day2.md)

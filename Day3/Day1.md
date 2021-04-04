@@ -58,13 +58,13 @@ Type "help", "copyright", "credits" or "license" for more information.
 ### 变量的命名规则
 1. 可以取英文或汉字(仅限3.9.1以上支持汉字)为开头，与数字结合的命名规则
 - a
-    - [ ]
+    - [ok]
 - a1
-    - [ ]
+    - [ok]
 - x_1 (此为驼峰命名法)
-    - [ ]
+    - [ok]
 - 1
-    - [x]
+    - [no]
 # 课后作业检测
 ###### 在终端解释器或在 <kbd>.py</kbd>文件里分别赋值打印如下内容
 1. hello,Python

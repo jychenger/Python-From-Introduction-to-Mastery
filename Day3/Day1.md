@@ -58,13 +58,13 @@ Type "help", "copyright", "credits" or "license" for more information.
 ### 变量的命名规则
 1. 可以取英文或汉字(仅限3.9.1以上支持汉字)为开头，与数字结合的命名规则
 - a
-    - [ok]
+    - <front color=LightSeaGreen>[ ok ]</front>
 - a1
-    - [ok]
+    - <front color=LightSeaGreen>[ ok ]</front>
 - x_1 (此为驼峰命名法)
-    - [ok]
+    - <front color=LightSeaGreen>[ ok ]</front>
 - 1
-    - [no]
+    - <front color=Tomato>[ no ]</front>
 # 课后作业检测
 ###### 在终端解释器或在 <kbd>.py</kbd>文件里分别赋值打印如下内容
 1. hello,Python

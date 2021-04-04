@@ -4,6 +4,6 @@ show_downloads: true
 
 google_analytics: true
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 
 title: 姜业成的网站jychenger-Python-From-Introduction-to-Mastery

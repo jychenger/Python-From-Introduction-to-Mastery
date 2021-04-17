@@ -1,4 +1,5 @@
 # Python-From-Introduction-to-MasteryPython从入门到精通
+[![DISCORD](https://img.shields.io/badge/Chat-On%20Discord-738BD7.svg?style=for-the-badge)](https://github.com/jychenger/jychenger/discussions)
  ***
 ##### 本书主要内容
 ###### 包括对Python语言的介绍，安装，编辑器配置。还有基础语法，函数，类，用户输入以及一些强大标准库的用法。

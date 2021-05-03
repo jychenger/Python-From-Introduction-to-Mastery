@@ -1,8 +1,8 @@
 # Python-From-Introduction-to-MasteryPython从入门到精通
 [![DISCORD](https://img.shields.io/badge/Chat-On%20Discord-738BD7.svg?style=for-the-badge)](https://github.com/jychenger/jychenger/discussions)
 <a href="https://github.com/jychenger/Python-From-Introduction-to-Mastery/blob/main/ind.md"><img align="" height="20%" width="5%" src="https://www.runoob.com/wp-content/uploads/2014/05/python3.png"></a>
- 
-***
+<a href="./ind.md"><img height="30%" width="10%" src="https://i.loli.net/2021/05/03/TQswBckAXzdV5pt.png"></a>
+* * *
 ##### 本书主要内容
 ###### 包括对Python语言的介绍，安装，编辑器配置。还有基础语法，函数，类，用户输入以及一些强大标准库的用法。
 ##### 作者主要资料
